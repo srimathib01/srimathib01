@@ -15,8 +15,8 @@ Passionate about crafting intelligent systems to tackle real-world problems.
 <br>
 
 <div>
-  <a href="https://github.com/srimathib01" target="_blank"style="gap:20px"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30"></a>  
-  <a href="https://www.linkedin.com/in/srimathi-b-b4a421249/" target="_blank"style="20px"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"></a>  
+  <a href="https://github.com/srimathib01" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30"></a>  
+  <a href="https://www.linkedin.com/in/srimathi-b-b4a421249/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"></a>  
   <a href="mailto:srimathi.b2022ai-ml@sece.ac.in"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30"></a>  
 </div>
 
