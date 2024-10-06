@@ -1,7 +1,7 @@
 # Srimathi B
 
 Hey there!👋<br>
-I'm Srimathi, building innovative solutions in Generative AI, Machine Learning, and Web Development. 
+I'm Srimathi, building solutions in tech fields like Generative AI, Machine Learning, and Web Development. 
 Passionate about crafting intelligent systems to tackle real-world problems.
 
 
