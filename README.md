@@ -1,6 +1,8 @@
 # Srimathi B
 
-I'm Srimathi, building innovative solutions in **Generative AI**, **Machine Learning**, and **Web Development**. Passionate about crafting intelligent systems to tackle real-world problems.
+Hey there!👋<br>
+I'm Srimathi, building innovative solutions in Generative AI, Machine Learning, and Web Development. 
+Passionate about crafting intelligent systems to tackle real-world problems.
 
 
 ## 🚀Skills and Experience
