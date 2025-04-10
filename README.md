@@ -7,9 +7,9 @@ Passionate about crafting intelligent systems to tackle real-world problems.
 
 ## 🚀Skills and Experience
 <li>Generative AI,Artificial Intelligence,Machine Learning,NLP </li>
-<li>Python,Java,C/C++</li>
+<li>Python,Java</li>
 <li>Flask,Langchain</li>
-<li>HTML CSS JS</li>
+<li>HTML CSS </li>
 <li> SQL,Mongodb</li>
 
 <br>
